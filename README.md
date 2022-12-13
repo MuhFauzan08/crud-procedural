@@ -17,6 +17,8 @@
 
 ### Live Demo :
 http://muhfauzan.epizy.com/login_sys/sign-in.php
+Username : admin
+Password : Admin1234
 
 ### Preview :
 ![Screenshot (89)](https://user-images.githubusercontent.com/69887895/207205881-bfe2d2f9-3740-47dd-b9b0-41e6e32f0ccd.png)
